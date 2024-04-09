@@ -10,7 +10,7 @@ Version 1.0
 
 ## Setting up Listener
 Listener set up command for Windows.
-Run 
+Run:
   <code><pre>nc -lvnp 87 -s 173.255.247.6</pre></code>
 in Powershell, replacing the IP and port with relevant ones.
 
