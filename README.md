@@ -1,5 +1,5 @@
 # Ducky-Rev-Shell
-Duckyscript in a bash file to get a reverse shell.
+Duckyscript in a bash file to get a reverse shell on MacOS.
 
 DISCLAIMER: This is for security research purposes ONLY. Only use on machines where you have permission or your own.
 
