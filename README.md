@@ -1,7 +1,7 @@
 # Ducky-Rev-Shell
 Duckyscript in a bash file to get a reverse shell on MacOS.
 
-## DISCLAIMER: This is for security research purposes ONLY. Only use on machines where you have permission or your own.
+## DISCLAIMER: <p>This is for security research purposes ONLY. Only use on machines where you have permission or your own.</p>
 
 ## Setting up Listener
 Listener set up command for Windows.
